@@ -1,0 +1,5 @@
+Sandman,Neil Gaiman,1: Preludes and Nocturnes,Vertigo,2010,14.63,3
+Wonder Woman,Brian Azzerello,3: Iron,DC Comics,2014,13.8,2
+Maus,Art Spiegelman,1: A Survivors Tale,Pantheon,2003,12.02,4
+Through the Woods,Emily Carroll,1: Through the Woods,McElderry Books,2014,11.99,2
+Batman,Alan Moore,The Killing Joke,DC Comics,1999,9.99,5
